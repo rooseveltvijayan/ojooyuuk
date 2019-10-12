@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohmiuth.choad.org/sitemap.xml
